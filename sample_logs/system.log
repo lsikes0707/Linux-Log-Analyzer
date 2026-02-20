@@ -1,0 +1,7 @@
+Jan 10 10:15:02 system INFO Service started successfully
+Jan 10 10:16:10 system WARNING Disk usage reaching threshold
+Jan 10 10:17:45 system ERROR Failed to connect to database
+Jan 10 10:18:22 system INFO Retrying connection
+Jan 10 10:19:01 system ERROR Connection timeout
+Jan 10 10:20:30 system INFO Service restarted
+Jan 10 10:21:11 system WARNING Memory usage elevated
